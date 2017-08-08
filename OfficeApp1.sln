@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeApp1", "OfficeApp1\OfficeApp1.csproj", "{BC3F6BD7-67AD-477B-8220-4BA53719AF4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeApp1Web", "OfficeApp1Web\OfficeApp1Web.csproj", "{EE5824BA-DF9D-45AA-ACE6-E03E04237B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC3F6BD7-67AD-477B-8220-4BA53719AF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3F6BD7-67AD-477B-8220-4BA53719AF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3F6BD7-67AD-477B-8220-4BA53719AF4C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BC3F6BD7-67AD-477B-8220-4BA53719AF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3F6BD7-67AD-477B-8220-4BA53719AF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3F6BD7-67AD-477B-8220-4BA53719AF4C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EE5824BA-DF9D-45AA-ACE6-E03E04237B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5824BA-DF9D-45AA-ACE6-E03E04237B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5824BA-DF9D-45AA-ACE6-E03E04237B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5824BA-DF9D-45AA-ACE6-E03E04237B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
